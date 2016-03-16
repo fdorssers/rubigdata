@@ -20,7 +20,8 @@ There are different ways to actually run and use Spark, but the simplest way is 
 Spark Notebook is based on Scala Notebook, which again is based on iPython Notebook (nowadays known as [Jupyter](http://jupyter.org/)). So what does this mean, a spark notebook?
 These notebooks provide interactive programming environments, visualized as a sort of document. The image below shows part of the notebook for the first assignment.
 
-![Spark Notebook]({{ site.url }}/assets/sparknotebook.png)
+<!-- ![Spark Notebook]({{ site.url }}/assets/sparknotebook.png) -->
+![Spark Notebook](http://fdorssers.github.io/rubigdata/assets/sparknotebook.png)
 
 In this image alone you can already see three different parts:
 
