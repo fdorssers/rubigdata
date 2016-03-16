@@ -3,12 +3,6 @@ layout: post
 title: Assignment 2
 ---
 
-<!-- Introduce the reader briefly to spark, and, if you like, the way you carry out the assignment: in the terminal room or at home, deviations from the default suggested commands that you needed to get things running conveniently, etc..
-
-Briefly explain what you learned about going through the notebook. Copy the most relevant commands (modified where you thought interesting), and add a brief explanation of what the commands do. (View as report can be a handy feature!)
-
-Do not forget to include what you learn from inspecting the Spark UI after issuing commands from the notebook! (Hint: comment on lazy evaluation and/or the effect of caching RDDs.) -->
-
 # Introduction
 This is the blog post for assignment 2a. In this blog post we'll take a brief look at what exactly Spark is, how the first assignment went, some specifics about Spark and how I'm doing these assignments.
 
@@ -26,7 +20,7 @@ There are different ways to actually run and use Spark, but the simplest way is 
 Spark Notebook is based on Scala Notebook, which again is based on iPython Notebook (nowadays known as [Jupyter](http://jupyter.org/)). So what does this mean, a spark notebook?
 These notebooks provide interactive programming environments, visualized as a sort of document. The image below shows part of the notebook for the first assignment.
 
-![Spark Notebook](Big Data Spark 101 - Google Chrome_006.png)
+![Spark Notebook](sparknotebook.png)
 
 In this image alone you can already see three different parts:
 
